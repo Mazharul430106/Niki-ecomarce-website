@@ -1,0 +1,15 @@
+html{
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+.navBar{
+    padding: 0 7%;
+}
+.navItem{
+    font-size: 1.6rem;
+    font-weight: 500;
+    
+}
+.logo{
+    width: 30rem;
+}
