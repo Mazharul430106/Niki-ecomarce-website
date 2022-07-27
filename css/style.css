@@ -2,14 +2,39 @@ html{
     font-size: 62.5%;
     scroll-behavior: smooth;
 }
-.navBar{
+
+/* header stayle start here */
+
+header{
+    background: #FFF9F4;
     padding: 0 7%;
 }
+
 .navItem{
     font-size: 1.6rem;
     font-weight: 500;
-    
 }
 .logo{
     width: 30rem;
 }
+
+/*
+.text .pera{
+    font-size: 1.6rem;
+    
+} */
+.text > h1{
+    font-size: 6rem;
+    color: #363958;
+}
+
+.text > h1 > span{
+    color: #FA804C;
+}
+
+.hero-reverse{
+    padding: 5rem 0;
+    padding-bottom: 10rem;
+}
+
+/* header stayle start here */

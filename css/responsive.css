@@ -1,0 +1,16 @@
+@media screen and (max-width:768px) {
+    .logo{
+        width: 20rem;
+    }
+    .text > h1{
+        font-size: 4rem;
+        color: #363958;
+    }
+    .hero-reverse{
+        flex-direction: column-reverse;
+
+    }
+    .image{
+        text-align: center;
+    }
+}
